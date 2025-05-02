@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Lachlan-McLeod/Lachlan-McLeod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Kia ora 👋 I'm Lachy
 
-Here are some ideas to get you started:
+I'm a Full Stack Web Developer with a background in civil construction and project management. I love solving complex problems with clean, creative solutions and collaborating with others to build awesome software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Frontend:** React, JavaScript, HTML, CSS, React Query, Tailwind
+- **Backend:** Node.js, Express, Knex.js, REST APIs
+- **Database:** SQLite, PostgreSQL
+- **Other:** Auth0, OAuth, Multer, Git/GitHub
+
+## 🌱 Currently Learning
+- Python
+- PostgreSQL advanced queries
+- Authentication patterns
+
+## 📫 Get in touch
+- [LinkedIn](https://www.linkedin.com/in/lachlan-mcleod-47a82215a/)
+
